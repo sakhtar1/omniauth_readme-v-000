@@ -1,0 +1,2 @@
+bundler: command not found: get
+Install missing gem executables with `bundle install`
